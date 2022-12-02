@@ -1,0 +1,5 @@
+#PROGETTO ALPHABOT
+L'obiettivo del progetto è far percorrere al robot alphabot un certo percorso tramite dei dati in input. 
+Per passare i dati si utilizza un paradigma client-server, dove il client , in questo caso il nostro PC, invia un numero, relativo ad un istruzione,
+e il server dopo aver letto un database contenente le varie istruzioni, le esegue.
+Il client e il server sono scritti in python.
